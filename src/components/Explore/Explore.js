@@ -15,7 +15,7 @@ const Explore = ({ filter, loadBtn }) => {
 
   return (
     <section className="explore-area load-more p-0">
-      <div className="container">
+      <div className="container" id="explore">
         <div className="row">
           <div className="col-12">
             {/* Intro */}
@@ -64,8 +64,12 @@ const Explore = ({ filter, loadBtn }) => {
                         <h6 className="ml-2 mb-0">{item.owner}</h6>
                       </div>
                       <div className="card-bottom d-flex justify-content-between">
-                        <span>{item.price}</span>
-                        <span>{item.count}</span>
+                        <span>{item.price} ETH</span>
+                        <span>
+                          {item.count === 1
+                            ? "Unique edition"
+                            : `Serie of ${item.count}`}
+                        </span>
                       </div>
                       <a
                         className="btn btn-bordered-white btn-smaller mt-3"
