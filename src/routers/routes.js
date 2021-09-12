@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { HashRouter as Router, Route, Switch } from "react-router-dom";
 
 // importing all the themes
 import ThemeOne from "../themes/theme-one";
@@ -16,42 +16,42 @@ class MyRouts extends React.Component {
             <Route exact path="/" component={ThemeOne} />
             <Route
               exact
-              path="/explore-1"
+              path="/N42/#/explore-1"
               component={() => (
                 <Explore page="Precious materials NFT" filter="precious" />
               )}
             />
             <Route
               exact
-              path="/explore-2"
+              path="/N42/#/explore-2"
               component={() => <Explore page="Funny NFT" filter="funny" />}
             />
             <Route
               exact
-              path="/explore-3"
+              path="/N42/#/explore-3"
               component={() => <Explore page="Flag NFT" filter="flag" />}
             />
             <Route
               exact
-              path="/explore-4"
+              path="/N42/#/explore-4"
               component={() => (
                 <Explore page="Psychedelic NFT" filter="psychedelic" />
               )}
             />
             <Route
               exact
-              path="/explore-5"
+              path="/N42/#/explore-5"
               component={() => <Explore page="Nature NFT" filter="nature" />}
             />
             <Route
               exact
-              path="/explore-6"
+              path="/N42/#/explore-6"
               component={() => (
                 <Explore page="Original NFT" filter="original" />
               )}
             />
-            <Route exact path="/item-details" component={ItemDetails} />
-            <Route exact path="/contact" component={Contact} />
+            <Route exact path="/N42/#/item-details" component={ItemDetails} />
+            <Route exact path="/N42/#/contact" component={Contact} />
           </Switch>
         </Router>
       </div>
