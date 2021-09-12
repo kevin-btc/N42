@@ -14,7 +14,7 @@ const Header = () => {
           <a className="navbar-brand" href="/">
             <img
               className="navbar-brand-sticky"
-              src="img/logo.png"
+              src="/img/logo.png"
               alt="sticky brand-logo"
             />
           </a>

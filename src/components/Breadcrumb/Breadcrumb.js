@@ -14,7 +14,7 @@ const Breadcrumb = ({ subpage, title, page }) => {
                   <a href="/">Home</a>
                 </li>
                 <li className="breadcrumb-item">
-                  <a href="#">{subpage}</a>
+                  <a href="/#explore">{subpage}</a>
                 </li>
                 <li className="breadcrumb-item active">{page}</li>
               </ol>

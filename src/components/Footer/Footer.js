@@ -26,7 +26,12 @@ class Footer extends Component {
                   <div className="social-icons d-flex">
                     {this.state.data.socialData.map((item, idx) => {
                       return (
-                        <a key={`sd_${idx}`} className={item.link} href="#">
+                        <a
+                          key={`sd_${idx}`}
+                          href={item.link}
+                          target="_blank"
+                          rel="noreferrer"
+                        >
                           <i className={item.icon} />
                           <i className={item.icon} />
                         </a>
@@ -44,7 +49,7 @@ class Footer extends Component {
                     {this.state.data.widgetData_1.map((item, idx) => {
                       return (
                         <li key={`wdo_${idx}`}>
-                          <a href="#">{item.text}</a>
+                          <a href={item.link}>{item.text}</a>
                         </li>
                       );
                     })}
@@ -57,13 +62,7 @@ class Footer extends Component {
                   {/* Footer Title */}
                   <h4 className="footer-title">{this.state.data.widget_2}</h4>
                   <ul>
-                    {this.state.data.widgetData_2.map((item, idx) => {
-                      return (
-                        <li key={`wdo_${idx}`}>
-                          <a href="#">{item.text}</a>
-                        </li>
-                      );
-                    })}
+                    <span>Coming soon</span>
                   </ul>
                 </div>
               </div>
