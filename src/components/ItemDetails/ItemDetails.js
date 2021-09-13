@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { useParams } from "react-router-dom";
 
+import Zoom from "react-medium-image-zoom";
+
 import db from "../../json-server/db.json";
 
 const ItemDetails = () => {
@@ -35,7 +37,14 @@ const ItemDetails = () => {
           <div className="col-12 col-lg-5">
             <div className="item-info">
               <div className="item-thumb text-center">
-                <img src={nft.img} alt="nft" />
+                <Zoom
+                  overlayBgColorEnd="rgba(0, 0, 0, 0.5)"
+                  overlayBgColorStart="rgba(0, 0, 0, 0)"
+                  closeText="Click to Close"
+                  openText="Click to See picture"
+                >
+                  <img src={nft.img} alt={nft.title} />
+                </Zoom>
               </div>
               {/* Netstorm Tab */}
               <ul className="netstorm-tab nav nav-tabs" id="nav-tab">
