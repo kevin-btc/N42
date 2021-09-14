@@ -11,11 +11,7 @@ class ItemDetails extends Component {
     return (
       <div className="main">
         <Header />
-        <Breadcrumb
-          title="Item Details"
-          subpage="Explore"
-          page="Item Details"
-        />
+        <Breadcrumb title="Details" subpage="Explore" page="Details" />
         <ItemDetail />
         <Footer />
         <Scrollup />
