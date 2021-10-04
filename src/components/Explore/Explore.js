@@ -1,4 +1,5 @@
 import React from "react";
+import _ from "lodash";
 
 import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
@@ -33,7 +34,7 @@ const Explore = ({ filter, loadBtn }) => {
           </div>
         </div>
         <div className="row items">
-          {nft.map((item) => {
+          {_.orderBy(nft, ["price", "batch"], ["asc", "desc"]).map((item) => {
             return (
               <div
                 key={`exo_${item.id}`}

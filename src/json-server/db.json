@@ -14,7 +14,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 1,
@@ -30,7 +31,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 2,
@@ -46,7 +48,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 3,
@@ -62,7 +65,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 4,
@@ -78,7 +82,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 5,
@@ -94,7 +99,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 6,
@@ -110,7 +116,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 7,
@@ -126,7 +133,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 8,
@@ -142,7 +150,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 9,
@@ -158,7 +167,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 10,
@@ -174,7 +184,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 11,
@@ -190,7 +201,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 12,
@@ -206,7 +218,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 13,
@@ -222,7 +235,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 14,
@@ -238,7 +252,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 15,
@@ -254,7 +269,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 16,
@@ -270,7 +286,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 17,
@@ -286,7 +303,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 18,
@@ -302,7 +320,8 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
     },
     {
       "id": 19,
@@ -318,7 +337,348 @@
       "size": "4250 x 4250 px",
       "creatorId": 0,
       "ownerId": 1,
-      "createdAt": "12/09/2021"
+      "createdAt": "12/09/2021",
+      "batch": 1
+    },
+    {
+      "id": 20,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/zebra.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/zebra_minify.png",
+      "title": "N42 Zebra",
+      "owner": "Available",
+      "content": "The 42 in zebra skin, a 'disruptive' camouflage that works like an optical illusion, and would confuse the perception of predators.",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306039803807531108/",
+      "tags": ["nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 21,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/tiger.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/tiger_minify.png",
+      "title": "N42 Tiger",
+      "owner": "Available",
+      "content": "The 42 in tiger skin, very recognizable with its red fur striped with black, it is the largest wild cat and one of the largest land carnivores.",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306040903319158884/",
+      "tags": ["nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 22,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/skulls.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/skulls_minify.png",
+      "title": "N42  Skulls",
+      "owner": "Available",
+      "content": "The 42 skull that will satisfy all the gothic, rock, punk or biker fans.",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306042002830786570/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 23,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/roots.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/roots_minify.png",
+      "title": "N42 Roots",
+      "owner": "Available",
+      "content": "The 42 that has been left outside for too long and is now covered with roots",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306043102342414436/",
+      "tags": ["original", "nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 24,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/psychedelic.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/psychedelic_minify.png",
+      "title": "N42 Psychedelic",
+      "owner": "Available",
+      "content": "The 42 psychedelic for those who like to think differently.",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306044201854042212/",
+      "tags": ["original", "psychedelic"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 25,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/pizza.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/pizza_minify.png",
+      "title": "N42 Pizza",
+      "owner": "Available",
+      "content": "The 42 Pizza for the fans who could eat them every day.",
+      "price": 0.01,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306045301365669890/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 26,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paint.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paint_minify.png",
+      "title": "N42 Dripping paint",
+      "owner": "Available",
+      "content": "The 42 that drips with paint, but is so beautiful",
+      "price": 0.015,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306046400877297669/",
+      "tags": ["nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 27,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/newspaper.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/newspaper_minify.png",
+      "title": "N42 Old Newspaper",
+      "owner": "Available",
+      "content": "The 42 in the old newspaper style which gives it all its charm",
+      "price": 0.015,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306047500388925445/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 28,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leafs.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leafs_minify.png",
+      "title": "N42 Rastafari",
+      "owner": "Available",
+      "content": "The 42 Rastafari that promote the rasta movement that want the rebellion and the liberation of consciences.",
+      "price": 0.015,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306048599900553226/",
+      "tags": ["nature", "original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 29,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/apocalyptic.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/apocalyptic_minify.png",
+      "title": "N42 Apocalyptic",
+      "owner": "Available",
+      "content": "The 42 that survived in a post-apocalyptic world.",
+      "price": 0.015,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306049699412180997/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 30,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/jeans_2.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/jeans_2_minify.png",
+      "title": "N42 Jeans",
+      "owner": "Available",
+      "content": "The 42 in ripped jeans is a must-have in your wardrobe",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306050798923808778/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 31,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/honeycomb.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/honeycomb_minify.png",
+      "title": "N42 Honeycomb",
+      "owner": "Available",
+      "content": "The 42 Honeycomb fills with the good nectar of the bees.",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306051898435436547/",
+      "tags": ["original", "nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 32,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/hierogly.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/hierogly_minify.png",
+      "title": "N42 Hieroglyph",
+      "owner": "Available",
+      "content": "The 42 Hieroglyphics which was filled with signs of the oldest Egyptian writings.",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306052997947064325/",
+      "tags": ["precious", "original", "nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 33,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/giraffe.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/giraffe_minify.png",
+      "title": "N42 Giraffe",
+      "owner": "Available",
+      "content": "The 42 in giraffe skin where we see the coat with dominant red is spotted with yellow.",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306054097458692101/",
+      "tags": ["nature"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 34,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/german.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/german_minify.png",
+      "title": "N42 German",
+      "owner": "Available",
+      "content": "The 42, which represents the flag of Germany, has a lively artistic and night life and is known for its beer bars.",
+      "price": 0.01,
+      "count": 2,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306055196970319877/",
+      "tags": ["original", "flag"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 35,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/france.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/france_minify.png",
+      "title": "N42 French",
+      "owner": "Available",
+      "content": "The 42 which represents the French flag a country of culture, heritage and gastronomy par excellence",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306056296481947653/",
+      "tags": ["original", "flag"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 36,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/emoticons.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/emoticons_minify.png",
+      "title": "N42 Emoticons",
+      "owner": "Available",
+      "content": "Le 42 emoticone le plus fun de tout les N42. 🥴😆",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306057395993575427/",
+      "tags": ["original", "funny"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 37,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/Bullet_hole.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/Bullet_hole_minify.png",
+      "title": "N42 Gunshot",
+      "owner": "Available",
+      "content": "The 42 who survived the war but did not come out completely unscathed !",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306058495505203201/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 38,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blood.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blood_minify.png",
+      "title": "N42 Blood",
+      "owner": "Available",
+      "content": "The 42 that drips with blood, gore but really top.",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306059595016830977/",
+      "tags": ["original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
+    },
+    {
+      "id": 39,
+      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/australia.png",
+      "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/australia_minify.png",
+      "title": "N42 Australia",
+      "owner": "Available",
+      "content": "The 42 which represents the country known for its Great Barrier Reef, its great wilderness and desert, and its unique animal species like the kangaroo and the platypus.",
+      "price": 0.02,
+      "count": 1,
+      "url": "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/75040076637045779987609757948761560950736397841551025186227306060694528458753/",
+      "tags": ["flag", "original"],
+      "size": "4250 x 4250 px",
+      "creatorId": 0,
+      "ownerId": 1,
+      "createdAt": "04/10/2021",
+      "batch": 2
     }
   ],
 
@@ -340,7 +700,7 @@
   ],
   "footer": {
     "img": "/img/logo-without-mv.png",
-    "content": "Alumni of the 42 Paris school and currently Lead dev in a startup, I fell into the crypto-currencies and NFTs pot some time ago now. I'm passionate about the innovative technologies that come from blockchain and I love being active in this future sector.",
+    "content": "alumni of one of the best programming schools in the world and currently Lead dev in a startup, I fell into the crypto-currencies and NFTs pot some time ago now. I'm passionate about the innovative technologies that come from blockchain and I love being active in this future sector.",
     "widget_1": "Useful Links",
     "widget_2": "Community",
     "widget_3": "Subscribe Us",
