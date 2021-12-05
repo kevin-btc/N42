@@ -32,16 +32,6 @@ const Header = () => {
               </a>
               <ul className="dropdown-menu">
                 <li className="nav-item">
-                  <a
-                    href="https://opensea.io/collection/number-forty-two"
-                    target="_blank"
-                    className="nav-link"
-                    rel="noreferrer"
-                  >
-                    See on OpenSea
-                  </a>
-                </li>
-                <li className="nav-item">
                   <a href="/explore-1" className="nav-link">
                     Precious materials NFT
                   </a>

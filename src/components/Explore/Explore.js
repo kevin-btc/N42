@@ -9,7 +9,7 @@ const Explore = ({ filter, loadBtn }) => {
   const nft = db.nft.filter(({ tags }) => tags.includes(filter) || loadBtn);
 
   return (
-    <section className="explore-area load-more p-0">
+    <section className="explore-area load-more p-5">
       <div className="container" id="explore">
         <div className="row">
           <div className="col-12">
@@ -20,14 +20,14 @@ const Explore = ({ filter, loadBtn }) => {
                 <h3 className="mt-3 mb-0">Explore</h3>
               </div>
               <div className="intro-btn">
-                <a
+                {/*<a
                   className="btn content-btn"
                   href="https://opensea.io/collection/number-forty-two"
                   target="_blank"
                   rel="noreferrer"
                 >
                   View on OpenSea
-                </a>
+                </a>*/}
               </div>
             </div>
           </div>
