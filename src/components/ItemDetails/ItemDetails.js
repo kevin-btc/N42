@@ -191,9 +191,9 @@ const ItemDetails = () => {
                   </div>
                 )}
               </div>
-              <a className="d-block btn btn-bordered-white mt-4" href={nft.url}>
-                Place a Bid
-              </a>
+              <div disabled className="d-block btn btn-bordered-white mt-4">
+                Place a Bid [Coming soon]
+              </div>
             </div>
           </div>
         </div>

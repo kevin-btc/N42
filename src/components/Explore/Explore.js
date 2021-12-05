@@ -1,7 +1,6 @@
 import React from "react";
 import _ from "lodash";
 
-import Zoom from "react-medium-image-zoom";
 import "react-medium-image-zoom/dist/styles.css";
 
 import db from "../../json-server/db.json";
@@ -40,58 +39,42 @@ const Explore = ({ filter, loadBtn }) => {
                 key={`exo_${item.id}`}
                 className="col-12 col-sm-6 col-lg-3 item"
               >
-                <div className="card">
-                  <div className="image-over" style={{ cursor: "zoom-in" }}>
-                    <Zoom
-                      overlayBgColorEnd="rgba(0, 0, 0, 0.5)"
-                      overlayBgColorStart="rgba(0, 0, 0, 0)"
-                      closeText="Click to Close"
-                      openText="Click to See picture"
-                    >
+                <a
+                  href={`/item-details/${item.id}`}
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <div className="card">
+                    <div className="image-over">
                       <img src={item.miniature} alt={item.title} />
-                    </Zoom>
-                  </div>
-                  {/* Card Caption */}
-                  <div className="card-caption col-12 p-0">
-                    {/* Card Body */}
-                    <div className="card-body">
-                      <a href={item.url} target="_blank" rel="noreferrer">
-                        <h5 className="mb-0">{item.title}</h5>
-                      </a>
-                      <div className="seller d-flex align-items-center my-3">
-                        <span>Owned By</span>
-                        <h6 className="ml-2 mb-0">{item.owner}</h6>
-                      </div>
-                      <div className="card-bottom d-flex justify-content-between">
-                        <span>{item.price} eGLD</span>
-                        <span>
-                          {item.count === 1
-                            ? "Unique edition"
-                            : `Serie of ${item.count}`}
-                        </span>
-                      </div>
-                      <div className="d-flex justify-content-between">
+                    </div>
+                    {/* Card Caption */}
+                    <div className="card-caption col-12 p-0">
+                      {/* Card Body */}
+                      <div className="card-body">
                         <a
-                          className="btn btn-bordered-white btn-smaller mt-3"
-                          href={item.url}
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          <i className="icon-handbag mr-2" />
-                          Place a Bid
-                        </a>
-                        <a
-                          className="btn btn-bordered-white btn-smaller mt-3"
                           href={`/item-details/${item.id}`}
                           target="_blank"
                           rel="noreferrer"
                         >
-                          <i className="icon-eye" />
+                          <h5 className="mb-0">{item.title}</h5>
                         </a>
+                        <div className="seller d-flex align-items-center my-3 text-white">
+                          <span>Owned By</span>
+                          <h6 className="ml-2 mb-0">{item.owner}</h6>
+                        </div>
+                        <div className="card-bottom d-flex justify-content-between">
+                          <span>{item.price} eGLD</span>
+                          <span>
+                            {item.count === 1
+                              ? "Unique edition"
+                              : `Serie of ${item.count}`}
+                          </span>
+                        </div>
                       </div>
                     </div>
                   </div>
-                </div>
+                </a>
               </div>
             );
           })}
