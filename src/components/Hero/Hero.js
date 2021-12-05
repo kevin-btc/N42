@@ -2,9 +2,9 @@ import React, { Component } from "react";
 
 const initData = {
   pre_heading: "Number Forty Two",
-  heading: "Discover, collect, and sell your N42 NFT",
+  heading: "Discover, collect, and sell your N42 NFT ⚡️",
   content:
-    "In total, there will be 2000 rarible N42 NFT to collect with proof of ownership stored on the Elrond blockchain. The number forty-two is the quintessential iconic number in the world of geek culture. By creating this collection of NFTs, we want to allow each owner to show their belonging to this culture of innovation, progress and freedom. And the original NFTs are stored in the ipfs",
+    "In total, there will be 2000 rarible N42 NFT to collect with proof of ownership stored on the Elrond blockchain ⚡️. The number forty-two is the quintessential iconic number in the world of geek culture. By creating this collection of NFTs, we want to allow each owner to show their belonging to this culture of innovation, progress and freedom. And the original NFTs are stored in the ipfs ",
   btn_1: "Explore",
   btn_2: "Create",
 };
