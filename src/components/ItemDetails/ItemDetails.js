@@ -105,7 +105,7 @@ const ItemDetails = () => {
                 <ul className="list-unstyled">
                   <li className="price d-flex justify-content-between">
                     <span>Current Price :</span>
-                    <span>{nft.price} ETH</span>
+                    <span>{nft.price} eGLD</span>
                   </li>
                   <li className="price d-flex justify-content-between">
                     <span>Edition :</span>

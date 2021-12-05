@@ -63,7 +63,7 @@ const Explore = ({ filter, loadBtn }) => {
                         <h6 className="ml-2 mb-0">{item.owner}</h6>
                       </div>
                       <div className="card-bottom d-flex justify-content-between">
-                        <span>{item.price} ETH</span>
+                        <span>{item.price} eGLD</span>
                         <span>
                           {item.count === 1
                             ? "Unique edition"
