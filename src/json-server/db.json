@@ -2,7 +2,7 @@
   "nft": [
     {
       "id": 0,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/ice.jpg",
+      "img": "https://bafybeibrkv7ghwowc6dkln3pjkzr7ny2p6tl5iipj523eu44lgy3ya372m.ipfs.dweb.link/ice.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/ice_minify.jpg",
       "title": "N42 Broken Ice",
       "owner": "Available",
@@ -19,7 +19,7 @@
     },
     {
       "id": 1,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paintball.jpg",
+      "img": "https://bafybeibqiguuekvdtfk73kfvyrs2o57qgnw2ntdpaonst5wckmvteoymxm.ipfs.dweb.link/paintball.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paintball_minify.jpg",
       "title": "N42 Paintball",
       "owner": "Available",
@@ -36,7 +36,7 @@
     },
     {
       "id": 2,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/bolted_leather.jpg",
+      "img": "https://bafybeie2znvs5aw75hwg3mhy7rhjezenahq3pitou3xqfacv4dyh5vzm6i.ipfs.dweb.link/bolted_leather.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/bolted_leather_minify.jpg",
       "title": "N42  Quilted leather",
       "owner": "Available",
@@ -53,7 +53,7 @@
     },
     {
       "id": 3,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/dollars.jpg",
+      "img": "https://bafybeihsfncslgmvkbfedixc2zwpec7ftn3ny4an7sygiro7mzvibfo4yq.ipfs.dweb.link/dollars.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/dollars_minify.jpg",
       "title": "N42 Dollars",
       "owner": "Available",
@@ -70,7 +70,7 @@
     },
     {
       "id": 4,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/bitcoin.jpg",
+      "img": "https://bafybeifkggmeszej4qt24ekz2fy7owhg2qi36nh4tp2sz63se4dmp5ihj4.ipfs.dweb.link/bitcoin.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/bitcoin_minify.jpg",
       "title": "N42 Bitcoin",
       "owner": "Available",
@@ -87,7 +87,7 @@
     },
     {
       "id": 5,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/snake.jpg",
+      "img": "https://bafybeiadotsgul6v5ilmfvnanhr7nf3ozulxjugmry36vguhpc63f7dqiq.ipfs.dweb.link/snake.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/snake_minify.jpg",
       "title": "N42 Black Snake",
       "owner": "Available",
@@ -104,7 +104,7 @@
     },
     {
       "id": 6,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/lava.jpg",
+      "img": "https://bafybeic7ag3aswffguuo4uehchryyv5iekuwytkjbmet56q7amgwc4qyoq.ipfs.dweb.link/lava.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/lava_minify.jpg",
       "title": "N42 Braised Wood",
       "owner": "Available",
@@ -121,7 +121,7 @@
     },
     {
       "id": 7,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/notes.jpg",
+      "img": "https://bafybeic5qgsuelvo5qyl7dqfm6u5mpvpddhts5uhhiqeviy47cq2rv4vl4.ipfs.dweb.link/notes.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/notes_minify.jpg",
       "title": "N42 Musical Note",
       "owner": "Available",
@@ -138,7 +138,7 @@
     },
     {
       "id": 8,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/wood.jpg",
+      "img": "https://bafybeig44tefkkuxarclh4gmdt3mx5e7bfrhv2ncnal2nrkykbgngqkpxa.ipfs.dweb.link/wood.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/wood_minify.jpg",
       "title": "N42 Natural Wood",
       "owner": "Available",
@@ -155,7 +155,7 @@
     },
     {
       "id": 9,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leopard.jpg",
+      "img": "https://bafybeicug6c5pdxtq7vlnkd6dktos6iac662x3bndfgd3m4gysv4ixzpoi.ipfs.dweb.link/leopard.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leopard_minify.jpg",
       "title": "N42 Leopard",
       "owner": "Available",
@@ -172,7 +172,7 @@
     },
     {
       "id": 10,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/metal.jpg",
+      "img": "https://bafybeify5qwc5v3djg6slialwwazizzxvsoeynvtnf2wcod33zxtnjarla.ipfs.dweb.link/metal.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/metal_minify.jpg",
       "title": "N42 Metal Plate",
       "owner": "Available",
@@ -189,7 +189,7 @@
     },
     {
       "id": 11,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/diamond.jpg",
+      "img": "https://bafybeih7plos2mlvmoarusy5fxwz3p55hbywvjf65xgsuycjco6we5kzty.ipfs.dweb.link/diamond.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/diamond_minify.jpg",
       "title": "N42 White Diamond",
       "owner": "Available",
@@ -206,7 +206,7 @@
     },
     {
       "id": 12,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/gold.jpg",
+      "img": "https://bafybeihlwjxe5sknqpnuzhbn3n7rdugd3y4bl74ffgqjtzevxvwlih2eru.ipfs.dweb.link/gold.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/gold_minify.jpg",
       "title": "N42 Gold",
       "owner": "Available",
@@ -223,7 +223,7 @@
     },
     {
       "id": 13,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/flag.jpg",
+      "img": "https://bafybeieh2mja6bfye2oq55dr5nexbjm3cdrtp4x5kegyrugxx7dtndknxi.ipfs.dweb.link/flag.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/flag_minify.jpg",
       "title": "N42 USA",
       "owner": "Available",
@@ -240,7 +240,7 @@
     },
     {
       "id": 14,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/rust.jpg",
+      "img": "https://bafybeigku5cjnxach53a6y3stsk4zocjmxdigmmr6mnaouoo2asylt5xuu.ipfs.dweb.link/rust.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/rust_minify.jpg",
       "title": "N42 Rusty Metal",
       "owner": "Available",
@@ -257,7 +257,7 @@
     },
     {
       "id": 15,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leather_stitched.jpg",
+      "img": "https://bafybeifvorq2kxpyqaukehwhrisz77jqyqf75lh5e47o62fbvrp2kuo2py.ipfs.dweb.link/leather_stitched.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leather_stitched_minify.jpg",
       "title": "N42 Stitched Leather",
       "owner": "Available",
@@ -274,7 +274,7 @@
     },
     {
       "id": 16,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/camo.jpg",
+      "img": "https://bafybeiddim6zj2vt2lmjhzydscm4wfojiq3ydotmx27ihxkejkg7ltacua.ipfs.dweb.link/camo.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/camo_minify.jpg",
       "title": "N42 Military Camo",
       "owner": "Available",
@@ -291,7 +291,7 @@
     },
     {
       "id": 17,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/universe.jpg",
+      "img": "https://bafybeihg3tmhjj2qkr4alry433dsis342dt6b6ljwqh32uihycdyuabf3e.ipfs.dweb.link/universe.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/universe_minify.jpg",
       "title": "N42 Universe",
       "owner": "Available",
@@ -308,7 +308,7 @@
     },
     {
       "id": 18,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blackdiamond.jpg",
+      "img": "https://bafybeie2zl367v4b77zlvyvh44ghos4cpvxsibdsli43kfdtvw3s6pzjs4.ipfs.dweb.link/blackdiamond.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blackdiamond_minify.jpg",
       "title": "N42 Black Diamond",
       "owner": "Available",
@@ -325,7 +325,7 @@
     },
     {
       "id": 19,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/graffiti.jpg",
+      "img": "https://bafybeid52lylnw63n4nwyelhjdj67wzdpoliqyfxbpeu5kvi7dgjak675m.ipfs.dweb.link/graffiti.jpg",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/graffiti_minify.jpg",
       "title": "N42 Graffiti",
       "owner": "Available",
@@ -342,7 +342,7 @@
     },
     {
       "id": 20,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/zebra.png",
+      "img": "https://bafybeibbeduolivvktpscyysr4thwhkvha3qq47fa2qxxsi3cdupmre3gi.ipfs.dweb.link/zebra.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/zebra_minify.png",
       "title": "N42 Zebra",
       "owner": "Available",
@@ -359,7 +359,7 @@
     },
     {
       "id": 21,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/tiger.png",
+      "img": "https://bafybeigbxbdxy7izwkcny6riziouc7x72cbvlih45clpamtdd7hrcx7wca.ipfs.dweb.link/tiger.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/tiger_minify.png",
       "title": "N42 Tiger",
       "owner": "Available",
@@ -376,7 +376,7 @@
     },
     {
       "id": 22,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/skulls.png",
+      "img": "https://bafybeiebzhq5bxro6u3g45kotugnhom7ole2q7gox3njkjtmv243urda3a.ipfs.dweb.link/skulls.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/skulls_minify.png",
       "title": "N42  Skulls",
       "owner": "Available",
@@ -393,7 +393,7 @@
     },
     {
       "id": 23,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/roots.png",
+      "img": "https://bafybeigjyhnhexadtekdnnbykq75kojid3othgbdnmdnlz5oudgsi5xufq.ipfs.dweb.link/roots.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/roots_minify.png",
       "title": "N42 Roots",
       "owner": "Available",
@@ -410,7 +410,7 @@
     },
     {
       "id": 24,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/psychedelic.png",
+      "img": "https://bafybeiaokvz3zjoxqlmyh7xxlzxd6vf6t7ttr2slzxis3eh7acov2ujuba.ipfs.dweb.link/psychedelic.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/psychedelic_minify.png",
       "title": "N42 Psychedelic",
       "owner": "Available",
@@ -427,7 +427,7 @@
     },
     {
       "id": 25,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/pizza.png",
+      "img": "https://bafybeifbtwmkzhfrjvlnutekefln4cxprh3ah5totx56lnuckjrb2e4jh4.ipfs.dweb.link/pizza.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/pizza_minify.png",
       "title": "N42 Pizza",
       "owner": "Available",
@@ -444,7 +444,7 @@
     },
     {
       "id": 26,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paint.png",
+      "img": "https://bafybeic4wrxdpznni5o4uivji3yyk6ruclafhme26wllwaoy7cekyqlypm.ipfs.dweb.link/paint.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/paint_minify.png",
       "title": "N42 Dripping paint",
       "owner": "Available",
@@ -461,7 +461,7 @@
     },
     {
       "id": 27,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/newspaper.png",
+      "img": "https://bafybeiccvwoue5lgogr52xsai7n5smlblsenfmejmv53w4ljxfohrp3xru.ipfs.dweb.link/newspaper.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/newspaper_minify.png",
       "title": "N42 Old Newspaper",
       "owner": "Available",
@@ -478,7 +478,7 @@
     },
     {
       "id": 28,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leafs.png",
+      "img": "https://bafybeibxw2woftuv2klrvysamlafcpoepdviie6udfyexx4iwwdfe6q7cm.ipfs.dweb.link/leaf.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/leafs_minify.png",
       "title": "N42 Rastafari",
       "owner": "Available",
@@ -495,7 +495,7 @@
     },
     {
       "id": 29,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/apocalyptic.png",
+      "img": "https://bafybeif6lafwonj6ogqvlgftwurqvwimxcxm37allsden5vufxi6skif34.ipfs.dweb.link/apocalyptic.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/apocalyptic_minify.png",
       "title": "N42 Apocalyptic",
       "owner": "Available",
@@ -512,7 +512,7 @@
     },
     {
       "id": 30,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/jeans_2.png",
+      "img": "https://bafybeie6js3oi5kh44unlvx4hzsbqvfr4uizz2hnocavt7rc2yhbhpgike.ipfs.dweb.link/jeans_2.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/jeans_2_minify.png",
       "title": "N42 Jeans",
       "owner": "Available",
@@ -529,7 +529,7 @@
     },
     {
       "id": 31,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/honeycomb.png",
+      "img": "https://bafybeicl3gghlbdxycoqfk7ammbx65tjs2ertrn3q3dsnuazicq2wj22pa.ipfs.dweb.link/honeycomb.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/honeycomb_minify.png",
       "title": "N42 Honeycomb",
       "owner": "Available",
@@ -546,7 +546,7 @@
     },
     {
       "id": 32,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/hierogly.png",
+      "img": "https://bafybeicryb7pky3zkl33t5mxpsnhbg4tlaodtavsjoqalyvyolyexwrt5u.ipfs.dweb.link/hierogly.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/hierogly_minify.png",
       "title": "N42 Hieroglyph",
       "owner": "Available",
@@ -563,7 +563,7 @@
     },
     {
       "id": 33,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/giraffe.png",
+      "img": "https://bafybeicphshdq2mj25bl6gkm4vtehfm5n4yx3mlziner4x3jfmfj2oztrm.ipfs.dweb.link/giraffe.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/giraffe_minify.png",
       "title": "N42 Giraffe",
       "owner": "Available",
@@ -580,7 +580,7 @@
     },
     {
       "id": 34,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/german.png",
+      "img": "https://bafybeihvkmxb37bgp2qavs2rug2vi5lpjgdiwivbyvtkfnmwgnxjjm367e.ipfs.dweb.link/german.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/german_minify.png",
       "title": "N42 German",
       "owner": "Available",
@@ -597,7 +597,7 @@
     },
     {
       "id": 35,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/france.png",
+      "img": "https://bafybeignbgdghvzbmtaxn6lwcybbb3znyfhnoimk5tkmjdfpr7cj4rwnwu.ipfs.dweb.link/france.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/france_minify.png",
       "title": "N42 French",
       "owner": "Available",
@@ -614,7 +614,7 @@
     },
     {
       "id": 36,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/emoticons.png",
+      "img": "https://bafybeicdjqctf2nucivt7ndoy7nheyrrkryffm7bbnuh2vagz6egu5du4i.ipfs.dweb.link/emoticons.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/emoticons_minify.png",
       "title": "N42 Emoticons",
       "owner": "Available",
@@ -631,7 +631,7 @@
     },
     {
       "id": 37,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/Bullet_hole.png",
+      "img": "https://bafybeiahv6w5ehqt7wousio4ojfbf56ldiw5bgmiihcalfqoisvlbo2j3e.ipfs.dweb.link/Bullet_hole.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/Bullet_hole_minify.png",
       "title": "N42 Gunshot",
       "owner": "Available",
@@ -648,7 +648,7 @@
     },
     {
       "id": 38,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blood.png",
+      "img": "https://bafybeigttkjv52g6wjgxez42bpuypibggbguep7mtpzolxscqoqnh573jy.ipfs.dweb.link/blood.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/blood_minify.png",
       "title": "N42 Blood",
       "owner": "Available",
@@ -665,7 +665,7 @@
     },
     {
       "id": 39,
-      "img": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/australia.png",
+      "img": "https://bafybeiaurjw32id6bpayt4ybymvn3kpdavpa27o4w266e2coooh5dpwqye.ipfs.dweb.link/australia.png",
       "miniature": "https://n42-nft.s3.eu-west-3.amazonaws.com/NFT/australia_minify.png",
       "title": "N42 Australia",
       "owner": "Available",
