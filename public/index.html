@@ -62,15 +62,19 @@
 
     <!-- Active js -->
     <script src="/assets/js/main.js"></script>
-    <script async src="//static.getclicky.com/101345392.js"></script>
-    <noscript
-      ><p>
-        <img
-          alt="Clicky"
-          width="1"
-          height="1"
-          src="//in.getclicky.com/101345392ns.gif"
-        /></p
-    ></noscript>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-K7TPWGD7MY"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-K7TPWGD7MY");
+    </script>
   </body>
 </html>
